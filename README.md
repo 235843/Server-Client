@@ -1,4 +1,4 @@
-# Server-Client
+<!-- # Server-Client
 
 Program sieciowy
 
@@ -14,5 +14,5 @@ Funkcje aplikacji serwerowej:
 
    -obsługa wielu klientów jednocześnie
    -przyjmowanie wysłanych z aplikacji klienckiej notyfikacji i kolejkowanie ich na serwerze
-   -wysyłanie notyfikacji do klienta który ją zapisał o podanym przez niego czasie
+   -wysyłanie notyfikacji do klienta który ją zapisał o podanym przez niego czasie -->
    

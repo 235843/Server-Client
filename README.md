@@ -6,12 +6,12 @@ Napisz program sieciowy (aplikacja kliencka + aplikacja serwerowa) służący do
 
 Funkcje aplikacji klienckiej:
 
-   połączenie z serwerem wraz z walidacją i obsługą wyjątków
-   pobranie od użytkownika treści notyfikacji (wiadomość tekstowa) oraz czasu odesłania notyfikacji do użytkownika
-   wyświetlenie otrzymanej przez serwer notyfikacji
+   -połączenie z serwerem wraz z walidacją i obsługą wyjątków
+   -pobranie od użytkownika treści notyfikacji (wiadomość tekstowa) oraz czasu odesłania notyfikacji do użytkownika
+   -wyświetlenie otrzymanej przez serwer notyfikacji
   
 Funkcje aplikacji serwerowej:
 
-   obsługa wielu klientów jednocześnie
-   przyjmowanie wysłanych z aplikacji klienckiej notyfikacji i kolejkowanie ich na serwerze
-   wysyłanie notyfikacji do klienta który ją zapisał o podanym przez niego czasie
+   -obsługa wielu klientów jednocześnie
+   -przyjmowanie wysłanych z aplikacji klienckiej notyfikacji i kolejkowanie ich na serwerze
+   -wysyłanie notyfikacji do klienta który ją zapisał o podanym przez niego czasie

@@ -12,6 +12,7 @@ Funkcje aplikacji klienckiej:
    
    -wyświetlenie otrzymanej przez serwer notyfikacji
   
+  
 Funkcje aplikacji serwerowej:
 
    -obsługa wielu klientów jednocześnie
